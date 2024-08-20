@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kadhi Lalit Shrinvas</h1>
 <h3 align="center">A passionate developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
+- 📫 How to reach me **lalitshrinivas@gmail.com**
+
+- ⚡ Fun fact **I love finding creative solutions to everyday problems—once, I automated my coffee maker with a simple IoT setup so it brews just as I wake up!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
