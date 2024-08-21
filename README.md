@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **lalitshrinivas@gmail.com**
 
-- ⚡ Fun fact **My simulations run smoother than my mornings without coffee.**
+- ⚡ Fun fact **My simulations run smoother than my mornings with coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
